@@ -5,11 +5,15 @@ public class Main {
         char studentFirstInitial = 'A';
         char studentLastInitial = 'J';
         boolean hasPerfectAttendance = false;
+        String studentFirstName = "Austin";
+        String studentLastName = "Johnson";
 
         System.out.println((studentAge));
         System.out.println(studentGPA);
         System.out.println(studentFirstInitial);
         System.out.println(studentLastInitial);
         System.out.println(hasPerfectAttendance);
+        System.out.println(studentFirstName);
+        System.out.println(studentLastName);
     }
 }
