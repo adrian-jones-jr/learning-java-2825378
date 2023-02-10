@@ -16,5 +16,8 @@ public class Main {
         System.out.println(hasPerfectAttendance);
         System.out.println(studentFirstName);
         System.out.println(studentLastName);
+
+
+        System.out.println(studentFirstName + " " + studentFirstName + " has a GPA of " + studentGPA);
     }
 }
